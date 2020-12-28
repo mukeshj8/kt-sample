@@ -1,2 +1,4 @@
 # kt-sample
-Kotlin login and recycler view sample example
+Kotlin sample code
+login and recycler view sample example
+used data binding
