@@ -37,7 +37,6 @@ class DashboardActivity : AppCompatActivity() {
         mBooks.add(Book("test03", "test03", "test03", 90.0, "2"))
         mBooks.add(Book("test04", "test05", "test04", 120.0, "5"))
         mBooks.add(Book("test05", "test06", "test05", 86.0, "4"))
-        //mBooks.filter { it.price > 100.0 }
         mBookAdapter.updateResult(mBooks)
     }
 }
